@@ -2,7 +2,7 @@
         BANNER
 ======================= -->
 <p align="center">
-  <img src="assets/banner.png" alt="Menno Scholten Banner" />
+  <img src="GITHUB_banner.png" alt="Menno Scholten Banner" />
 </p>
 
 <!-- =======================
