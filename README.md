@@ -1,19 +1,71 @@
-<p width="100%" style="position: relative">
-  <img style="position: absolute; left: 0; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=MennoScholten&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Commit Stats"/>
-  <img style="position: absolute; right: 0; width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennoScholten&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true" alt="Language Stats" />
+<!-- =======================
+        BANNER
+======================= -->
+<p align="center">
+  <img src="assets/banner.png" alt="Menno Scholten Banner" />
 </p>
 
+<!-- =======================
+        TITLE
+======================= -->
+<h1 align="center" style="color:#FDFD96;">
+  MENNO SCHOLTEN
+</h1>
+
+<p align="center" style="color:#FDFD96;">
+  Embedded Systems / Software Engineer • UAV Systems • Real-Time Applications • Functional AI • Low-Level C/C++
+</p>
+
+---
+
+<!-- =======================
+        ABOUT
+======================= -->
+## ABOUT ME
+
+I am a **Master Embedded Systems / Software Engineer** focused on building **high-performance, deterministic, and intelligent systems**.
+
+My personal interests:
+
+- 🚁 UAV / Drone Systems (autonomy, control, embedded flight software)
+- ⚡ Real-time & deterministic systems
+- 🤖 Functional AI 
+- 🧠 Low-level software design (C / C++)
+- 🔧 System architecture & hardware–software integration
+- 💡 PCB design
+---
+
+<!-- =======================
+        TECH STACK
+======================= -->
+## SKILL SET
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,cmake" />
+</p>
+
+---
+
+
+<!-- ======================= GITHUB STATS ======================= -->
+## GITHUB STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MennoScholten&show_icons=true&theme=dark&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennoScholten&layout=compact&theme=dark&hide_border=true" height="180"/> </p>
+
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+## ACTIVITY
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MennoScholten&bg_color=0d1117&color=FDFD96&line=FDFD96&point=FFFFFF&area=true&hide_border=true" /> </p>
+
+
+<!-- ======================= CONTACT ======================= -->
 <!--
-**MennoScholten/MennoScholten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📡 CONNECT
+<p align="center"> <span style="color:#FDFD96;">GitHub:</span> https://github.com/MennoScholten </p>
 -->
+
+<p align="center" style="color:#FDFD96;"> ⚡ Built for real-time systems • UAV intelligence • Embedded performance ⚡ </p> 
+
+
+
+
+
