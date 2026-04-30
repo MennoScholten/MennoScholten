@@ -1,4 +1,8 @@
-## Hi there 👋
+<p width="100%" style="position: relative">
+  <img style="position: absolute; left: 0; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=MennoScholten&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Commit Stats"/>
+  <img style="position: absolute; right: 0; width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennoScholten&theme=dark&layout=compact&hide_border=true&hide_title=true" alt="Language Stats" />
+</p>
+
 
 <!--
 **MennoScholten/MennoScholten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
